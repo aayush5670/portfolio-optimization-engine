@@ -41,7 +41,7 @@ It combines custom mathematical optimization algorithms (`scipy.optimize`) with 
 Clone this repository and install the required dependencies using `pip`:
 
 ```bash
-git clone https://github.com/your-username/portfolio-optimization.git
+git clone https://github.com/aayush5670/portfolio-optimization.git
 cd portfolio-optimization
 
 pip install yfinance pandas numpy scipy matplotlib PyPortfolioOpt
